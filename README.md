@@ -89,7 +89,8 @@
 <br/>  
 
 ## Connect with me  
-
+<a href="https://instagram.com"><img src="https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR472586/file_manager/excellent-new-instagram-logo-clipart-image.jpg"></a>
+<a href="https://github.com/ProfessorZin"><img src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
 <br/>  
 
 ## 🏆 GitHub Trophies
