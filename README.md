@@ -89,7 +89,7 @@
 <br/>  
 
 ## Connect with me  
-<a href="https://instagram.com/Professor.Zin"> <img src="https://tse2.mm.bing.net/th?id=OIP.tckRhISYLVv-7wg1-wYNXgHaCy&pid=Api&P=0&h=180" style="width: 10%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/Professor.Zin"> <img src="https://tse2.mm.bing.net/th?id=OIP.tckRhISYLVv-7wg1-wYNXgHaCy&pid=Api&P=0&h=180" style="width: 10%;"> </a> <br/>
 <a href="https://github.com/ProfessorZin"><img src="http://i1.wp.com/www.analyticsvidhya.com/wp-content/uploads/2015/07/github_logo.png?resize=1024%2C219" style="width: 10%;"> </a>
 <br/>  
 
