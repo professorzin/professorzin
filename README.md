@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there, I'm HProfessor Zin👨‍! I'm a penetration tester with a passion for creating innovative and effective solutions 💡 My expertise lies in Python, JavaScript, DevOps, and more 💻 I have experience with a range of technologies and platforms, including Odoo, ERPNEXT, Django, Flask, AWS, Docker, and Nginx 🚀 </div>  
+### <div align="center">Hi there, I'm Professor Zin👨‍! I'm a penetration tester with a passion for creating innovative and effective solutions 💡 My expertise lies in Python, JavaScript, DevOps, and more 💻 I have experience with a range of technologies and platforms, including Odoo, ERPNEXT, Django, Flask, AWS, Docker, and Nginx 🚀 </div>  
   
 
 - 🔭 I’m currently working on [ERPNEXT](https://erpnext.com/)  
