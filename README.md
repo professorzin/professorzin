@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there, I'm Hardik Zinzuvadiya👨‍! I'm a full-stack developer with a passion for creating innovative and effective solutions 💡 My expertise lies in Python, JavaScript, DevOps, and more 💻 I have experience with a range of technologies and platforms, including Odoo, ERPNEXT, Django, Flask, AWS, Docker, and Nginx 🚀 </div>  
+### <div align="center">Hi there, I'm HProfessor Zin👨‍! I'm a penetration tester with a passion for creating innovative and effective solutions 💡 My expertise lies in Python, JavaScript, DevOps, and more 💻 I have experience with a range of technologies and platforms, including Odoo, ERPNEXT, Django, Flask, AWS, Docker, and Nginx 🚀 </div>  
   
 
 - 🔭 I’m currently working on [ERPNEXT](https://erpnext.com/)  
@@ -89,10 +89,10 @@
 <br/>  
 
 ## Connect with me  
-<a href="https://github.com/Z4nzu" target="_blank">
+<a href="https://github.com/PROFESSORZIN target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@hardikzinzu" target="_blank">
+<a href="https://instagram.com/@Professor.Zin" target="_blank">
 <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/hardikzinzu" target="_blank">
